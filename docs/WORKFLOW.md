@@ -1,3 +1,5 @@
+<p align="center"><strong>EN</strong> | <a href="WORKFLOW.zh-CN.md">中文</a></p>
+
 # Research Workflow, Logging and Boot Safety
 
 For RTX 4080 SUPER owners researching a similar adaptation, this is a **decision workflow**, not a validated universal instruction to execute an EFI image. The implementation described in this repository was tested on **one Gainward 16 GB card**.
