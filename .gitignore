@@ -1,0 +1,29 @@
+# Documentation-only repository: local GPU artifacts must stay private.
+*.efi
+*.EFI
+*.rom
+*.ROM
+*.bin
+*.BIN
+*.dump
+*.dmp
+*.dpapi
+*.key
+*.pem
+*.pfx
+*.log
+
+# Raw preboot reports, captures and test output
+REPORT.TXT
+PROM.BIN
+RUN[0-9][0-9]/
+benchmarks/results/
+research/out/
+private/
+local/
+USB/
+.env
+.env.*
+
+# This is an accident-prevention aid, not a publication security review.
+# Files explicitly force-added to Git can still be committed and published.
