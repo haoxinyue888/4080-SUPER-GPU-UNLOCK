@@ -38,4 +38,10 @@ These are *device-resident matrix-multiplication* measurements, not claims about
 
 The foundational unlock technique is **upstream work**, not an invention of this repository. In particular, the Windows UEFI starting point came from [TOTORONG/AD103_win_unlocker](https://huggingface.co/TOTORONG/AD103_win_unlocker), which documented a *modified non-SUPER RTX 4080 with 32 GB*; see [REFERENCES.md](REFERENCES.md) for the broader source lineage.
 
+## License and attribution
+
+Original explanatory text in this repository is licensed **CC BY 4.0** — reuse and adaptation are welcome with appropriate credit and an indication of changes. See [LICENSE](LICENSE) for the full terms and [LICENSE-SCOPE.md](LICENSE-SCOPE.md) for which material is covered.
+
+The original unlock research and Windows UEFI workflow belong to their respective upstream authors; linking to or discussing those works does **not** relicense their code or documentation. See [REFERENCES.md](REFERENCES.md) for attribution and third-party licensing distinctions. README-embedded images are not included in the CC BY 4.0 grant unless explicitly licensed separately.
+
 **Research status:** Successful hardware-specific Windows handoff and in-session compute improvement on one card; compatibility with other cards, repeated-boot reliability, numerical correctness and sustained stability are **not established**.
