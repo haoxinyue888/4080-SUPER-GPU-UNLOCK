@@ -46,4 +46,10 @@ Original explanatory text in this repository is licensed **CC BY 4.0** — reuse
 
 The original unlock research and Windows UEFI workflow belong to their respective upstream authors; linking to or discussing those works does **not** relicense their code or documentation. See [REFERENCES.md](REFERENCES.md) for attribution and third-party licensing distinctions. README-embedded images are not included in the CC BY 4.0 grant unless explicitly licensed separately.
 
+## Project credits
+
+- **Project owner and hardware experiments:** [haoxinyue888](https://github.com/haoxinyue888) — project direction, real-hardware testing, and verification of results.
+- **AI-assisted research and documentation:** **ChatGPT** — assisted with technical analysis, debugging and adaptation work, organizing the evidence, writing the guides, and preparing the Chinese translation.
+- **Original unlock research:** the upstream researchers and maintainers credited in [REFERENCES.md](REFERENCES.md).
+
 **Research status:** Successful hardware-specific Windows handoff and in-session compute improvement on one card; compatibility with other cards, repeated-boot reliability, numerical correctness and sustained stability are **not established**.
