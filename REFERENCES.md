@@ -28,7 +28,7 @@ Where a behavior was inherited — especially the actual compute-unlock techniqu
 - The underlying **GPL-2.0-only-derived unlock source** and its modifications carry applicable upstream obligations if distributed. This documentation-only repository does **not** include that code or an EFI binary.
 - TOTORONG's **new narrative documents** specify **CC BY-NC 4.0** to the extent of the author's rights. This repository uses independently written prose and links to the original documents instead of copying them wholesale.
 - Other upstream material may carry its own notices. Link and attribute the source; do not assume a single license covers everything.
-- **No separate license has yet been chosen for this repository's original prose.** A clear documentation license can be added by the repository owner before public release. Absence of a license is **not** a grant of reuse rights.
+- Independently authored documentation text in **this repository is now licensed under [CC BY 4.0](LICENSE)**, subject to the material ownership and upstream exclusions in [LICENSE-SCOPE.md](LICENSE-SCOPE.md). This does not override any original author's separate license.
 - Do not upload private firmware binaries, raw ROM/PROM dumps, machine-specific logs, full research-directory history or unreviewed executable payloads.
 
 Sources are included for **credit, context and further reading**, not as a claim that their authors reviewed or endorsed our Gainward experiment.
