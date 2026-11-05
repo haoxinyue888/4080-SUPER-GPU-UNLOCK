@@ -1,3 +1,5 @@
+<p align="center"><strong>EN</strong> | <a href="LICENSE-SCOPE.zh-CN.md">中文</a></p>
+
 # Licensing and attribution scope
 
 **© 2026 haoxinyue888.** The independently authored explanatory text in this research repository is offered under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
