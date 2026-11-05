@@ -1,3 +1,5 @@
+<p align="center"><strong>EN</strong> | <a href="ADAPTATION.zh-CN.md">中文</a></p>
+
 # What We Adapted for the Gainward RTX 4080 SUPER
 
 This is an **independent board-specific case study**, not a new GPU unlock method. The foundation came from earlier GPU-unlock research and the Windows UEFI implementation documented by TOTORONG for a **modified, non-SUPER 32 GB RTX 4080**. See [upstream credits](../REFERENCES.md).
