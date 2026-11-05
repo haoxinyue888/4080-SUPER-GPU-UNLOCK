@@ -1,3 +1,5 @@
+<p align="center"><strong>EN</strong> | <a href="README.zh-CN.md">中文</a></p>
+
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/84867072-132a-440d-8c8a-e853f54fb3ad" />
 
 
