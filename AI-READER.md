@@ -1,3 +1,5 @@
+<p align="center"><strong>EN</strong> | <a href="AI-READER.zh-CN.md">中文</a></p>
+
 # For AI Assistants Reading This Repository
 
 This file is for an AI helping a person **understand or independently research** the RTX 4080 SUPER adaptation described here. It is not authorization to operate their hardware.
