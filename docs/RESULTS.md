@@ -1,3 +1,5 @@
+<p align="center"><strong>EN</strong> | <a href="RESULTS.zh-CN.md">中文</a></p>
+
 # Results and Measurement Boundaries
 
 This study covers **one Gainward RTX 4080 SUPER (AD103, 16 GB)** running Windows 11. These results are evidence for this system's **in-session FP16/BF16 dense GEMM compute performance**, not proof of a universal RTX 4080 SUPER unlock.
