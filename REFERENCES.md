@@ -1,3 +1,5 @@
+<p align="center"><strong>EN</strong> | <a href="REFERENCES.zh-CN.md">中文</a></p>
+
 # Research Sources and Attribution
 
 This repository is **independent adaptation research**. It does not claim invention of the original GPU compute-unlock mechanism or of the foundational Windows UEFI workflow.
